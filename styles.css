@@ -1,0 +1,72 @@
+body{
+  background: #232526;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+.blm {
+  display: flex;
+  flex-flow: column;
+  margin-right: 10%;
+}
+
+.blm div {
+  flex: auto;
+  margin: 0 auto;
+  height: 15em;
+  width: 15em;
+  border: 1px solid #888888;
+  border-radius: 20px;
+  box-shadow: 5px 5px #888888;
+  background-color: #ff4d4d;
+  font-color: white;
+  font-size: 20px;
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+  height: 100%;
+  padding: 2em;
+  vertical-align: center;
+  margin-top: 2em;
+}
+
+.blm div a{
+  color: white;
+}
+
+.white {
+  display: flex;
+  flex-flow: column;
+  margin-left: 10%;
+
+}
+
+.white div {
+  flex: auto;
+  margin: 0 auto;
+  height: 15em;
+  width: 15em;
+  border: 1px solid #888888;
+  border-radius: 20px;
+  box-shadow: 5px 5px #888888;
+  background-color: #99c2ff;
+  font-color: white;
+  font-size: 20px;
+  font-family: 'Boogaloo', cursive;
+  text-align: center;
+  height: 100%;
+  padding: 2em;
+  vertical-align: center;
+  margin-top: 2em;
+}
+
+.white div a{
+  color: white;
+}
+
