@@ -6,10 +6,10 @@ It may not be exactly clear in the beginning which side is which. It's up to the
 The website is not yet live because I haven't determined what domain I want to purchase for it. In the meantime you can checkout some pictures!
 
 ### Image 1
-![Image 1](https://raw.githubusercontent.com/cosmosiris/Reddit-API-Single-Page-Website-/master/sample-image2.png)
+![Image 1](https://raw.githubusercontent.com/cosmosiris/Reddit-API-Single-Page-Website-/master/image-2.png)
 
 ### Image 2
-![Image 2](https://raw.githubusercontent.com/cosmosiris/Reddit-API-Single-Page-Website-/master/sample-image3.png)
+![Image 2](https://raw.githubusercontent.com/cosmosiris/Reddit-API-Single-Page-Website-/master/image-3.png)
 
 ### Image 3
-![Image 3](https://raw.githubusercontent.com/cosmosiris/Reddit-API-Single-Page-Website-/master/sample-image-1.png)
+![Image 3](https://raw.githubusercontent.com/cosmosiris/Reddit-API-Single-Page-Website-/master/image-1.png)
